@@ -1,4 +1,4 @@
-# Trigram Classifier for Genre Classification
+# Sequential Probability Estimation Model Project
 
 This project implements a trigram classifier to categorize sentences into different genres using the Brown corpus from the NLTK library. The classifier processes, stems, and tokenizes sentences, builds trigram models for each genre, and evaluates the performance of the classifier using accuracy, precision, recall, and F1-score metrics.
 
